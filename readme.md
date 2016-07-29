@@ -1,12 +1,13 @@
-# Functional Programming Jargon
+# Jargão de Programação Funcional
 
-Functional programming (FP) provides a lot of advantages and its popularity has been increasing as a result.  However each programming paradigm comes with its own unique jargon and FP is no exception.  By providing a glossary we hope to make learning FP easier.
+A programação funcional (FP) fornece uma série de vantagens e sua popularidade tem vindo a aumentar como resultado. No entanto, cada paradigma de programação vem com seu próprio jargão único e FP não é excepção. Ao fornecer um glossário esperamos fazer a aprendizagem de FP mais fácil.
 
-JavaScript is popular language that is well suited to FP; especially with revision ES2015.  Therefore we have chosen to use JavaScript (ES2015) for our examples, and in some cases definitions.  This should make this glossary as accessible and as possible and introduce features from the new revision.
+JavaScript é uma linguagem popular que é bem adequada para FP; especialmente com ES2015/ES6. Por isso optamos por usar JavaScript (ES2015) para os nossos exemplos, e em alguns casos as definições. Isto deve fazer desse glossário tão acessível e possível de introduzir novas características de uma nova versão do EcmaScript.
 
-*This is a [WIP](https://github.com/hemanth/functional-programming-jargon/issues/20); please feel free to send a PR ;)*
 
-Where applicable, this document uses terms defined in the [Fantasy Land spec](https://github.com/fantasyland/fantasy-land)
+*Isso é um [Trabalho Em Andamento](https://github.com/hemanth/functional-programming-jargon/issues/20); por favor sinta-se livre para enviar um PR (Pull Request);)*
+
+Se for caso disso, este documento usa termos definidos no  [Fantasy Land spec](https://github.com/fantasyland/fantasy-land)
 
 <!-- RM(noparent,notop) -->
 
